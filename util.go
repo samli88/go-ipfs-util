@@ -13,7 +13,7 @@ import (
 	"time"
 
 	b58 "github.com/mr-tron/base58/base58"
-	mh "github.com/multiformats/go-multihash"
+	mh "github.com/samli88/go-multihash"
 )
 
 // DefaultIpfsHash is the current default hash function used by IPFS.
